@@ -1,5 +1,18 @@
 <h1> Hi there 👋, im Raees your friendly neighbourhood <br/><a href="https://github.com/Raees-J">Programmer</a></h1>
 
+<h2>Career counselling</h2>
+<a href="></a>
+As part of my career development coursework, I was required to complete a module focused on key principles of career counselling, including goal-setting, career planning, and effective counselling outcomes.
+
+
+The goal was to complete an online assessment that tested my understanding of these concepts and to submit it within the given timeframe to contribute to my overall coursework performance.
+
+
+To prepare, I carefully studied the course content and reviewed all relevant materials. I approached each question thoughtfully, applying the knowledge I had gained, and ensured that my responses were submitted before the deadline.
+
+
+I achieved a full score of 100/100 for the assessment, demonstrating my solid understanding of the course material. This accomplishment boosted my confidence and reinforced the value of thorough preparation and consistent effort in career development.
+
 <h2>Skills & Interests</h2>
 <a href="https://github.com/Raees-J/Raees-J/blob/main/skills%20and%20interests.PNGG">Skills & Interests,</a>
 as part of my university career development requirements, I completed an online assessment focused on identifying my key skills, values, and interests. The purpose was to help me understand how these elements relate to my future career path.
