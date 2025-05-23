@@ -1,6 +1,7 @@
 <h1> Hi there 👋, im Raees your friendly neighbourhood <br/><a href="https://github.com/Raees-J">Programmer</a></h1>
 
 <h2>Skills & Interests</h2>
+<a href="https://github.com/Raees-J/Raees-J/blob/main/CV.PNG">Skills & Interests</a>
 As part of my university career development requirements, I completed an online assessment focused on identifying my key skills, values, and interests. The purpose was to help me understand how these elements relate to my future career path.
 
 My task was to evaluate my current skill set and interests and consider how they align with potential roles in the IT and app development industry.
