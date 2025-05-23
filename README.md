@@ -11,7 +11,7 @@ I took part in an interactive module that assessed various areas including my un
 I achieved a score of 80%, which gave me confidence in my self-awareness and decision-making. The assessment helped me better understand the skills I already possess and how my interests connect to a career in technology. It also provided direction for personal development as I prepare for future opportunities in the field.
 
 <h2>Personality assessment</h2>
-<a href="https://github.com/Raees-J/Raees-J/blob/main/skills%20and%20interests.PNGG">Personality assessment,</a>
+<a href="https://github.com/Raees-J/Raees-J/blob/main/personality%20assessment.PNG">Personality assessment,</a>
 as part of my university career development activities, I completed a personality assessment to help me better understand how my traits relate to different career paths and work environments.
 
 The aim was to identify how my personality influences my professional strengths, preferences, and suitability for specific careers—particularly in relation to the IT and app development field.
@@ -30,10 +30,20 @@ I compiled information from various sources including my academic records, certi
 
 The final CV is well-structured, professional, and presents my qualifications in a clear and compelling way. It’s now ready for use in internship and job applications. Completing this task also enhanced my understanding of how to professionally present myself to potential employers.
 
+<h2>CV submission reflection</h2>
+After completing my professional CV, I needed to submit it as part of a career development course and prepare it for use in applying to upcoming internship opportunities.
+
+My goal was to ensure that my CV was well-formatted, thoroughly refined, and submitted on time to fulfill the coursework requirements and be ready for real-world job applications.
+
+I carefully revised my CV based on the feedback I received, made sure the layout and content met professional standards, and submitted it through the designated platform before the deadline. I also saved a finalized version to use for future internship and job applications.
+
+Successfully submitting my CV was a key milestone in developing my professional presence. It boosted my confidence in pursuing internships and entry-level roles and taught me the value of keeping my CV updated and adapting it for different opportunities.
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 https://www.linkedin.com/in/raees-johaadien-750514271/
 
 <!--
