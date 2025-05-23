@@ -1,8 +1,8 @@
 <h1> Hi there 👋, im Raees your friendly neighbourhood <br/><a href="https://github.com/Raees-J">Programmer</a></h1>
 
 <h2>Career counselling</h2>
-<a href="></a>
-As part of my career development coursework, I was required to complete a module focused on key principles of career counselling, including goal-setting, career planning, and effective counselling outcomes.
+<a href="https://github.com/Raees-J/Raees-J/blob/main/career%20development.PNG">Career counselling,</a>
+as part of my career development coursework, I was required to complete a module focused on key principles of career counselling, including goal-setting, career planning, and effective counselling outcomes.
 
 
 The goal was to complete an online assessment that tested my understanding of these concepts and to submit it within the given timeframe to contribute to my overall coursework performance.
