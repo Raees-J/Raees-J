@@ -1,64 +1,64 @@
-<h1> Hi there 👋, im Raees your friendly neighbourhood <br/><a href="https://github.com/Raees-J">Programmer</a></h1>
+🕷️ Hi, I'm Raees Johaadien – Your Friendly Neighbourhood Programmer!
+Welcome to my Digital Workshop! 👋
+What started as curiosity about "how websites work" turned into a passion for creating digital experiences that make people's lives a little bit better. I'm a highly motivated and determined student transitioning into a Software Developer (Mobile Applications) role, with a strong focus on React development.
 
-<h2>Career counselling</h2>
-<a href="https://github.com/Raees-J/Raees-J/blob/main/career%20development.PNG">Career counselling,</a>
-as part of my career development coursework, I was required to complete a module focused on key principles of career counselling, including goal-setting, career planning, and effective counselling outcomes.
+My philosophy? Write clean code, ask thoughtful questions, and never forget that behind every user interface is a human being. I believe that with great code comes great responsibility!
 
+🚀 Key Skills & Expertise
+I bring a blend of development, design, and problem-solving skills, fueled by continuous learning.
 
-The goal was to complete an online assessment that tested my understanding of these concepts and to submit it within the given timeframe to contribute to my overall coursework performance.
+Category	Key Technologies & Areas
+Mobile & Web	React, TypeScript, Vue.js, Tailwind CSS
+Backend & Data	Node.js, Python, Express, Flask, Database Design, MongoDB, PostgreSQL, SQLite
+Methodology	Agile Testing, Problem Solving, UI/UX Design, Software Testing/QA
+Tools	Git/GitHub, SQL Queries
 
+Export to Sheets
+💡 Projects Built with Care
+Each project here represents a solution to a real problem I've come across in university. They are built not just with code, but with genuine care for the people who will use them.
 
-To prepare, I carefully studied the course content and reviewed all relevant materials. I approached each question thoughtfully, applying the knowledge I had gained, and ensured that my responses were submitted before the deadline.
+Project Title	Tagline	Core Tech Stack
+Community Recipe Sharing	Bringing people together through food.	React, Node.js, MongoDB, Tailwind CSS
+Local Event Connector	Connect, discover, create memories.	TypeScript, Express, PostgreSQL, React Native
+Small Business Helper	Great tools for local businesses.	Python, Flask, SQLite, Vue.js
 
+Export to Sheets
+➡️ View All Projects on GitHub
 
-I achieved a full score of 100/100 for the assessment, demonstrating my solid understanding of the course material. This accomplishment boosted my confidence and reinforced the value of thorough preparation and consistent effort in career development.
+💼 Professional Journey
+Work Experience
+Software Developer (Mobile Applications) @ CAPACITI
+97 Durham Ave, Salt River, Cape Town | 2025 - Present
 
-<h2>Skills & Interests</h2>
-<a href="https://github.com/Raees-J/Raees-J/blob/main/skills%20and%20interests.PNGG">Skills & Interests,</a>
-as part of my university career development requirements, I completed an online assessment focused on identifying my key skills, values, and interests. The purpose was to help me understand how these elements relate to my future career path.
+Development of mobile applications using React, collaborating with cross-functional teams to deliver user-friendly solutions.
 
-My task was to evaluate my current skill set and interests and consider how they align with potential roles in the IT and app development industry.
+Reduced page load times by 60% through optimization.
 
-I took part in an interactive module that assessed various areas including my understanding of values, examples of transferable skills, and how personal interests influence career decisions. I reviewed the feedback carefully to identify areas of strength and those I could improve on.
+Built scalable web applications.
 
-I achieved a score of 80%, which gave me confidence in my self-awareness and decision-making. The assessment helped me better understand the skills I already possess and how my interests connect to a career in technology. It also provided direction for personal development as I prepare for future opportunities in the field.
+Implemented responsive design for mobile and tablet.
 
-<h2>Personality assessment</h2>
-<a href="https://github.com/Raees-J/Raees-J/blob/main/personality%20assessment.PNG">Personality assessment,</a>
-as part of my university career development activities, I completed a personality assessment to help me better understand how my traits relate to different career paths and work environments.
+Education & Certifications
+Type	Name	Institution	Period
+Diploma	Application Development Diploma	Cape Peninsula University of Technology	2023 - 2025
+Cert.	Introductio to Cyber Security	Greater learning	
+Cert.	Programming Foundations: Software testing/QA	LinkedIn	
 
-The aim was to identify how my personality influences my professional strengths, preferences, and suitability for specific careers—particularly in relation to the IT and app development field.
+Export to Sheets
+🤝 Let's Connect!
+When I'm not debugging code, you'll find me on the football field, hiking trails, or at the beach. I'm always open to discussing new projects, sharing knowledge, or just having a good conversation.
 
-I took part in an online assessment that explored personality types such as Realistic, Artistic, and Conventional. It included questions about work style, problem-solving approaches, and preferences for certain types of tasks. I carefully reviewed the results to understand how my personality aligns with various career roles.
-
-I achieved a score of 80%, which showed that I have a solid understanding of my personality and how it connects to career planning. The results highlighted my strengths in analytical and creative thinking—qualities that are essential in tech roles like app development. This exercise gave me clearer insight into the kind of environments where I’m likely to thrive and helped me make more informed decisions about my career direction.
-
-<h2>CV</h2>
-<a href="https://github.com/Raees-J/Raees-J/blob/main/CV.PNG">CV,</a>
-as part of my university’s career counselling portfolio, I was tasked with developing a professional CV. Before this, I only had a basic version that lacked structure and clarity.
-
-I aimed to create a professional CV that accurately represents my academic background, skill set, and work experience, specifically tailored toward a future in app development.
-
-I compiled information from various sources including my academic records, certificates, and part-time employment history. I organized the content into clear sections such as Education, Skills, Achievements, and Work Experience. I also revised my personal statement to highlight qualities like adaptability, motivation, and problem-solving ability.
-
-The final CV is well-structured, professional, and presents my qualifications in a clear and compelling way. It’s now ready for use in internship and job applications. Completing this task also enhanced my understanding of how to professionally present myself to potential employers.
-
-<h2>CV submission reflection</h2>
-After completing my professional CV, I needed to submit it as part of a career development course and prepare it for use in applying to upcoming internship opportunities.
-
-My goal was to ensure that my CV was well-formatted, thoroughly refined, and submitted on time to fulfill the coursework requirements and be ready for real-world job applications.
-
-I carefully revised my CV based on the feedback I received, made sure the layout and content met professional standards, and submitted it through the designated platform before the deadline. I also saved a finalized version to use for future internship and job applications.
-
-Successfully submitting my CV was a key milestone in developing my professional presence. It boosted my confidence in pursuing internships and entry-level roles and taught me the value of keeping my CV updated and adapting it for different opportunities.
-
-
-
-
-<h2> 🤳 Connect with me:</h2>
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-https://www.linkedin.com/in/raees-johaadien-750514271/
-
+<p align="center">
+<a href="public/CV_Raees Johaadien.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Download_Resume-warm%20glow-primary?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+</p>
 <!--
 **Raees-J/Raees-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
