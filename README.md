@@ -59,19 +59,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>Community Recipe Sharing</strong></td>
-        <td>Bringing people together through food.</td>
-        <td>React, Node.js, MongoDB, Tailwind CSS</td>
+        <td><strong>Masjid connect</strong></td>
+        <td>Bringing people together through events.</td>
+        <td>React, springboot, Mysql, Tailwind CSS</td>
       </tr>
       <tr>
-        <td><strong>Local Event Connector</strong></td>
-        <td>Connect, discover, create memories.</td>
-        <td>TypeScript, Express, PostgreSQL, React Native</td>
+        <td><strong>E-commerce website</strong></td>
+        <td>University merchandise store.</td>
+        <td>React, typescript, spring, Mysql</td>
       </tr>
       <tr>
-        <td><strong>Small Business Helper</strong></td>
-        <td>Great tools for local businesses.</td>
-        <td>Python, Flask, SQLite, Vue.js</td>
+        <td><strong>Portfolio</strong></td>
+        <td>business/ personal portfolio.</td>
+        <td>React, framer motion</td>
       </tr>
     </tbody>
   </table>
@@ -155,17 +155,6 @@
     </a>
   </p>
 </section>
-<!--
-**Raees-J/Raees-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
