@@ -95,7 +95,7 @@
     <li>Implemented responsive design for mobile and tablet.</li>
   </ul>
 
-  [cite_start]<p><em>(Part-time) Booth Central: 2023 - present</em></p>
+ <p><em>(Part-time) Booth Central: 2023 - present</em></p>
 
   <h3>Education & Certifications</h3>
   <table>
