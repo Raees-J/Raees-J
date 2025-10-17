@@ -118,7 +118,7 @@
         <td><strong>Cert.</strong></td>
         <td>Introductio to Cyber Security</td>
         <td>Great Learning Acadamy</td>
-        [cite_start]<td>2023 </td>
+        <td>2023 </td>
       </tr>
       <tr>
         <td><strong>Cert.</strong></td>
