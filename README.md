@@ -25,15 +25,15 @@
     <tbody>
       <tr>
         <td><strong>Mobile & Web</strong></td>
-        <td><strong>React</strong>, <strong>TypeScript</strong>, Vue.js, Tailwind CSS</td>
+        <td><strong>React</strong>, <strong>TypeScript</strong>, Angular, Tailwind CSS</td>
       </tr>
       <tr>
         <td><strong>Backend & Data</strong></td>
-        <td><strong>Node.js</strong>, <strong>Python</strong>, Express, Flask, <strong>Database Design</strong>, MongoDB, PostgreSQL, SQLite</td>
+        <td><strong>Node.js</strong>, <strong>Python</strong>, Express, Springboot, <strong>Database Design</strong>, MongoDB, MySQL, SQLite</td>
       </tr>
       <tr>
         <td><strong>Methodology</strong></td>
-        <td><strong>Agile Testing</strong>, Problem Solving, UI/UX Design, Software Testing/QA</td>
+        <td><strong>Agile Testing</strong>, Problem Solving, UI/UX Design/td>
       </tr>
       <tr>
         <td><strong>Soft Skills</strong></td>
