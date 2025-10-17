@@ -95,7 +95,7 @@
     <li>Implemented responsive design for mobile and tablet.</li>
   </ul>
 
-  [cite_start]<p><em>(Part-time) Booth Central: 2023 - present</em> [cite: 25]</p>
+  [cite_start]<p><em>(Part-time) Booth Central: 2023 - present</em></p>
 
   <h3>Education & Certifications</h3>
   <table>
@@ -118,7 +118,7 @@
         <td><strong>Cert.</strong></td>
         <td>Introductio to Cyber Security</td>
         <td>Great Learning Acadamy</td>
-        [cite_start]<td>2023 [cite: 12]</td>
+        [cite_start]<td>2023 </td>
       </tr>
       <tr>
         <td><strong>Cert.</strong></td>
