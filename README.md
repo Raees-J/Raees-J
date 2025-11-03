@@ -25,7 +25,7 @@
     <tbody>
       <tr>
         <td><strong>Mobile & Web</strong></td>
-        <td><strong>React</strong>, <strong>TypeScript</strong>, Angular, Tailwind CSS</td>
+        <td><strong>React</strong>, <strong>TypeScript</strong>, Tailwind CSS</td>
       </tr>
       <tr>
         <td><strong>Backend & Data</strong></td>
