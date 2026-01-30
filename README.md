@@ -70,7 +70,7 @@ A platform empowering student designers to showcase and sell their creations.
 
 ## 🤝 Let's Connect!
 
-When I'm not debugging code, you'll find me on the football field ⚽, hitting the hiking trails 🏔️, or relaxing at the beach 🌊.
+When I'm not debugging code, you'll find me on the football field, hitting the hiking trails, or relaxing at the beach.
 
 Let's build something amazing together!
 
