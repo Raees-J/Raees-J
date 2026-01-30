@@ -1,160 +1,77 @@
+# 🕷️ Hi, I'm Raees Johaadien – Your Friendly Neighbourhood Programmer!
 
-<section id="header">
-  <h1 align="left">🕷️ Hi, I'm Raees Johaadien – Your Friendly Neighbourhood Programmer!</h1>
+## Welcome to my Digital Workshop! 👋
 
-  <h2>Welcome to my Digital Workshop! 👋</h2>
+What started as curiosity about "how websites work" turned into a passion for crafting digital experiences that make people's lives a little bit better. I'm a highly motivated and determined software developer with a strong capacity for problem-solving and innovative thinking. 
 
-  <p>What started as curiosity about "how websites work" turned into a passion for crafting digital experiences that make people's lives a little bit better. I'm a highly motivated and determined student with a strong capacity for problem-solving and innovative thinking. I believe that <strong>With great code comes great responsibility!</strong></p>
+**I believe that "With great code comes great responsibility!"**
 
-  <p>My focus is on writing <strong>clean code</strong>, asking thoughtful questions, and collaborating with team members to complete objectives.</p>
+My focus is on writing clean, scalable code, asking thoughtful questions, and collaborating with cross-functional teams to build impactful solutions.
 
-  <hr>
-</section>
+---
 
-<section id="skills">
-  <h2>🚀 Key Skills & Expertise</h2>
-  <p>I bring a blend of development, design, and problem-solving skills, fueled by continuous learning.</p>
+## 🚀 Key Skills & Expertise
 
-  <table>
-    <thead>
-      <tr>
-        <th>Category</th>
-        <th>Key Technologies & Areas</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Mobile & Web</strong></td>
-        <td><strong>React</strong>, <strong>TypeScript</strong>, Tailwind CSS</td>
-      </tr>
-      <tr>
-        <td><strong>Backend & Data</strong></td>
-        <td><strong>Node.js</strong>, <strong>Python</strong>, Express, Springboot, <strong>Database Design</strong>, MongoDB, MySQL, SQLite</td>
-      </tr>
-      <tr>
-        <td><strong>Methodology</strong></td>
-        <td><strong>Agile Testing</strong>, Problem Solving, UI/UX Design/td>
-      </tr>
-      <tr>
-        <td><strong>Soft Skills</strong></td>
-        <td>Communication skills, Adaptability, Leadership, High levels of integrity</td>
-      </tr>
-    </tbody>
-  </table>
+I bring a blend of full-stack development, mobile engineering, and system design skills.
 
-  <hr>
-</section>
+| Domain | Technologies |
+|:---:|:--- |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Mobile App Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
-<section id="projects">
-  <h2>💡 Projects Built with Care</h2>
-  <p>Each project here represents a solution to a real problem I've come across in university. They're built with genuine care for the people who will use them.</p>
+---
 
-  <table>
-    <thead>
-      <tr>
-        <th>Project Title</th>
-        <th>Tagline</th>
-        <th>Core Tech Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Masjid connect</strong></td>
-        <td>Bringing people together through events.</td>
-        <td>React, springboot, Mysql, Tailwind CSS</td>
-      </tr>
-      <tr>
-        <td><strong>E-commerce website</strong></td>
-        <td>University merchandise store.</td>
-        <td>React, typescript, spring, Mysql</td>
-      </tr>
-      <tr>
-        <td><strong>Portfolio</strong></td>
-        <td>business/ personal portfolio.</td>
-        <td>React, framer motion</td>
-      </tr>
-    </tbody>
-  </table>
+## 💡 Projects Built with Care
 
-  <p>➡️ <strong><a href="https://github.com/Raees-J" target="_blank">View All Projects on GitHub</a></strong></p>
+Each project here represents a solution to a real problem, built with genuine care for the users.
 
-  <hr>
-</section>
+### 🏆 [Leadflow](https://github.com/Raees-J/Leadflow)
+**Automated Lead Generation & Management Platform**
+A powerful CRM capability designed for CBOs to manage leads efficiently.
+*   **Tech Stack**: React, Node.js, TypeScript, PostgreSQL (Neon), Prisma, Twilio WhatsApp API.
+*   **Key Features**: Automated WhatsApp workflows, "Hot Lead" detection, Real-time analytics dashboard, Role-based access control (Admin/Manager/Agent).
 
-<section id="resume">
-  <h2>💼 Professional Journey</h2>
+### 🕋 [Sajdah Essentials](https://github.com/Raees-J/sajdah-essentials)
+**Spiritual Companion App**
+A mobile application dedicated to enhancing the daily spiritual routine.
+*   **Tech Stack**: Mobile Development (Flutter/React Native).
+*   **Impact**: Helping users stay connected with their faith through technology.
 
-  <h3>Work Experience</h3>
+### 🛠️ [Tradesman Hub](https://github.com/Raees-J/Tradesman-Hub)
+**Service Marketplace**
+Connecting skilled tradesmen with clients who need reliable services.
+*   **Tech Stack**: Full-stack Web Application.
+*   **Focus**: Seamless connection, booking management, and trusted reviews.
 
-  <h4>Software Developer (Mobile Applications) @ CAPACITI</h4>
-  <p><em>97 Durham Ave, Salt River, Cape Town | 2025 - Present</em></p>
-  <ul>
-    <li>Development of mobile applications using <strong>React</strong>, collaborating with cross-functional teams to deliver user-friendly solutions.</li>
-    <li>Reduced page load times by <strong>60%</strong> through optimization.</li>
-    <li>Built scalable web applications.</li>
-    <li>Implemented responsive design for mobile and tablet.</li>
-  </ul>
+### 🎓 [Student Designer Marketplace](https://github.com/Raees-J/StudentDesignerMarketplace)
+**E-Commerce for Students**
+A platform empowering student designers to showcase and sell their creations.
 
- <p><em>(Part-time) Booth Central: 2023 - present</em></p>
+➡️ [View All Projects on GitHub](https://github.com/Raees-J)
 
-  <h3>Education & Certifications</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Institution</th>
-        <th>Period</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Diploma</strong></td>
-        <td>Application Development Diploma</td>
-        <td>Cape Peninsula University of Technology</td>
-        <td>2023 - 2025</td>
-      </tr>
-      <tr>
-        <td><strong>Cert.</strong></td>
-        <td>Introductio to Cyber Security</td>
-        <td>Great Learning Acadamy</td>
-        <td>2023 </td>
-      </tr>
-      <tr>
-        <td><strong>Cert.</strong></td>
-        <td>Programming Foundations: Software testing/QA</td>
-        <td>LinkedIn</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td><strong>Cert.</strong></td>
-        <td>Agile testing</td>
-        <td>LinkedIn</td>
-        <td>-</td>
-      </tr>
-    </tbody>
-  </table>
+---
 
-  <hr>
-</section>
+## 💼 Professional Journey
 
-<section id="connect">
-  <h2>🤝 Let's Connect!</h2>
+### Work Experience
 
-  <p>When I'm not debugging code, you'll find me on the football field, hiking trails, or at the beach. Let's build something amazing together!</p>
+#### **Software Developer (Mobile Applications)** @ CAPACITI
+*Cape Town | 2025 - Present*
+*   Developing high-performance mobile applications using React Native and Flutter.
+*   Collaborating with cross-functional teams to deliver user-friendly solutions.
+*   Optimizing application performance, reducing load times by 60%.
 
-  <p align="center">
-    <a href="public/CV_Raees Johaadien.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Download_Resume-warm%20glow-primary?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-    </a>
-    <a href="https://www.linkedin.com/in/raees-johaadien03/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:johaadien.raees@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </p>
-</section>
+#### **(Part-time) @ Booth Central**
+*2023 - Present*
 
+---
 
+## 🤝 Let's Connect!
 
+When I'm not debugging code, you'll find me on the football field ⚽, hitting the hiking trails 🏔️, or relaxing at the beach 🌊.
+
+Let's build something amazing together!
+
+[![](https://visitcount.itsvg.in/api?id=Raees-J&label=Profile%20Views&color=12)]
